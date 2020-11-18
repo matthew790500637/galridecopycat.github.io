@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+恰同学少年，风华正茂；书生意气，挥斥方遒。
+指点江山，激扬文字，粪土当年万户侯。
+曾记否，到中流击水，浪遏飞舟？
 
-### More Information
+### 更多的
 
-A place to include any other types of information that you'd like to include about yourself.
+这是一个像自言自语一样的日记类型个人博客
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[matthew790500637@gmail.com](mailto:matthew790500637@gmail.com)
